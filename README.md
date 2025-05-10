@@ -1,4 +1,4 @@
-# Learn Go basic from Alex Mux YouTube channel
+# Learn Go basic from various sources
 1. tutorial-1
 
 Hello world in Go
