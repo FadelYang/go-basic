@@ -14,3 +14,15 @@ Function in Go
 4. tutorial-4
 
 Array in Go
+
+5. tutorial-5
+
+Struct and interface in Go
+
+6. tutorial-6
+
+Rune and string
+
+7. tutorial-7
+
+Pointer

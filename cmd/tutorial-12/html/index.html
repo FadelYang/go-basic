@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Go Web</title>
+  <style>
+    #subscribe {
+      padding: 4px 8px;
+      background-color: red;
+      color: white;
+      border-radius: 10%;
+    }
+
+    .bold-text {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Halaman ini akan dipanggil oleh Golang</h1>
+  <button id="subscribe">Subscribe</button>
+  <br>
+  <p>Nama saya: <span class="bold-text">{{.Name}}</span></p>
+  <p>Pekerjaan saya: <span class="bold-text">{{.Job}}</span></p>
+</body>
+</html>
